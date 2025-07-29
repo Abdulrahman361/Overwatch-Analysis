@@ -36,8 +36,3 @@ This project analyzes match and map-level statistics from the `match_map_stats.c
 - **Jupyter Notebook**: Interactive analysis and plots
 
 ---
-
-## **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/overwatch-map-analysis.git
